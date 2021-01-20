@@ -5,5 +5,5 @@
 ---------------------------------  
 # Assignment 6.filesystem
 
-Goal : implement create(), delete(), open(), close(), read(), write()  
+Goal : implement create(), delete(), open(), close(), read(), write() for virtual file system  
 I only edited ssufs-ops.c  
